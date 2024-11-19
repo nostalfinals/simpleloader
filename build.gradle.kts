@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "ink.nostal.simpleloader"
-version = "1.0-SNAPSHOT"
+version = "0.1.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
